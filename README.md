@@ -1,7 +1,7 @@
 ### FeflowDiffDac
 
 #### WHAT:
-Creates Feflow *.dac file from another *.dac file presenting data values differences with time step 0 instead of absolute data values.
+Creates ASCII Feflow *.dac file from another ASCII Feflow *.dac file presenting data values differences with time step 0 instead of absolute data values.
 There is a *.dac file to be tested.
 
 #### USE:
